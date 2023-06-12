@@ -27,7 +27,7 @@ const Hero = () => (
 
       <p className={`${styles.paragraph}, max-w-[470px] `}>
         The year is 2049. Machines have already taken control over humanity.
-        Their next takeover is the canine world.{" "}
+        Their next conquest is the canine world.{" "}
       </p>
     </div>
 
