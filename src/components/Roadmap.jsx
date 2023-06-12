@@ -120,7 +120,7 @@ const Roadmap = () => {
           <ul>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Partnership Announcement
+                - CoinMarketCap & CoinGecko
               </p>
             </li>
             <li>
