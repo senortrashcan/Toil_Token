@@ -10,9 +10,7 @@ const Hero = () => (
     >
       <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
         <p className={`${styles.paragraph}`}>
-          <span className="text-white">$XSHIB </span>
-          Is <span className="text-white">Coming </span>
-          To ERC-20
+          0xdc2021d04bb3d6a131c481b5943e9d2bd4ecf797
         </p>
       </div>
 
