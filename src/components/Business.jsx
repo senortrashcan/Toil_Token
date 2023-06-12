@@ -41,6 +41,10 @@ const Business = () => {
           The mechanics stand alongside their army,{" "}
           <span className="text-gradient">on a equal footing.</span>
         </p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-6`}>
+          Total Supply:{" "}
+          <span className="font-sans text-gradient">10,000,000 $XSHIB</span>
+        </p>
         <Button styles="mt-10" />
       </div>
 
