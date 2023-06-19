@@ -113,15 +113,15 @@ export const footerLinks = [
     links: [
       {
         name: "Contract",
-        link: "https://etherscan.io/token/0xdc2021d04bb3d6a131c481b5943e9d2bd4ecf797",
+        link: "https://etherscan.io/token/0x000000000000000000000000000000000000dead",
       },
       {
         name: "Swap",
-        link: "https://app.uniswap.org/#/swap?outputCurrency=0xdc2021d04bb3d6a131c481b5943e9d2bd4ecf797",
+        link: "https://app.uniswap.org/#/swap?outputCurrency=0x000000000000000000000000000000000000dead",
       },
       {
         name: "Chart",
-        link: "https://dextools.io/app/uniswap/pair-explorer/0xdc2021d04bb3d6a131c481b5943e9d2bd4ecf797",
+        link: "https://dextools.io/app/uniswap/pair-explorer/0x000000000000000000000000000000000000dead",
       },
     ],
   },
@@ -188,12 +188,12 @@ export const clients = [
   {
     id: "client-3",
     logo: coinbase,
-    link: "https://etherscan.io/token/0xdc2021d04bb3d6a131c481b5943e9d2bd4ecf797",
+    link: "https://etherscan.io/token/0x000000000000000000000000000000000000dead",
   },
   {
     id: "client-4",
     logo: dropbox,
-    link: "https://dextools.io/app/uniswap/pair-explorer/0xdc2021d04bb3d6a131c481b5943e9d2bd4ecf797",
+    link: "https://dextools.io/app/uniswap/pair-explorer/0x000000000000000000000000000000000000dead",
   },
   {
     id: "client-5",
