@@ -102,8 +102,8 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Taxes",
-    value: "Zero",
+    title: "Zero",
+    value: "Taxes",
   },
 ];
 

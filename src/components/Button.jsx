@@ -8,7 +8,7 @@ const Button = ({ styles }) => {
       onClick={(e) => {
         e.preventDefault();
         window.location.href =
-          "https://app.uniswap.org/#/swap?outputCurrency=0xdc2021d04bb3d6a131c481b5943e9d2bd4ecf797";
+          "https://app.uniswap.org/#/swap?outputCurrency=0x000000000000000000000000000000000000dead";
       }}
     >
       Buy now
