@@ -171,11 +171,6 @@ export const socialMedia = [
 
 export const clients = [
   {
-    id: "client-1",
-    logo: airbnb,
-    link: "https://twitter.com/XSHIBETH",
-  },
-  {
     id: "client-2",
     logo: binance,
     link: "https://t.me/TOILToken",
@@ -193,11 +188,11 @@ export const clients = [
   {
     id: "client-5",
     logo: cmc,
-    link: "https://coinmarketcap.com/",
+    link: "https://coinmarketcap.com/dexscan/bsc/0x10e1d4b84ff84554bd8780db198f4385a3f0e670/",
   },
   {
     id: "client-6",
     logo: cg,
-    link: "https://www.coingecko.com/",
+    link: "https://www.geckoterminal.com/bsc/pools/0x10e1d4b84ff84554bd8780db198f4385a3f0e670",
   },
 ];
