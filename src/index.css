@@ -73,7 +73,7 @@
 }
 
 .bg-discount-gradient {
-  background: linear-gradient(125.17deg, #81FFD9 0%, #181616 100%);
+  background: linear-gradient(125.17deg, #81FFD9 25%, #181616 100%);
 }
 
 .box-shadow {
