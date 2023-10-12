@@ -3,7 +3,7 @@ import styles from "../style";
 import { arrowUp } from "../assets";
 
 const GetStarted = () => (
-  <a href="https://app.uniswap.org/#/swap?outputCurrency=0x000000000000000000000000000000000000dead">
+  <a href="https://pancakeswap.finance/swap?outputCurrency=0xE7882b023a4295f63eD5FB06AD410b0E1A1304A8">
     <div className="{`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer`">
       <div
         className={`${styles.flexCenter} flex-col bg-primary w-[100%] h-[100%] rounded-full`}
