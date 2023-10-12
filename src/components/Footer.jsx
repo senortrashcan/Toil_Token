@@ -12,8 +12,8 @@ const Footer = () => (
           className="w-[200px] h-[72.14px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[350px]`}>
-          The weak should fear the strong. <br />
-          The organic should fear the mechanic.
+          Property Of The Blockchain. <br />
+          
         </p>
       </div>
 

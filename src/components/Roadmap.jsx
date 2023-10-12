@@ -35,22 +35,22 @@ const Roadmap = () => {
           <ul>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Build Social Media Presence
-              </p>
-            </li>
-            <li>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Community Event I
-              </p>
-            </li>
-            <li>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                 - Stealth Launch
               </p>
             </li>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Dextools, Etherscan & Trending
+                - Build Social Media Presence
+              </p>
+            </li>
+            <li>
+              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+                - Dexscreener and BscScan
+              </p>
+            </li>
+            <li>
+              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+                - Community Event I
               </p>
             </li>
           </ul>
@@ -77,22 +77,22 @@ const Roadmap = () => {
           <ul>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Influencer Marketing
-              </p>
-            </li>
-            <li>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Community Event II
-              </p>
-            </li>
-            <li>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                 - Minor Announcement
               </p>
             </li>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Twitter Takeover
+                - Influencer Marketing
+              </p>
+            </li>
+            <li>
+              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+                - Broaden Social Media Presence
+              </p>
+            </li>
+            <li>
+              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+                - Community Event II
               </p>
             </li>
           </ul>
@@ -124,17 +124,17 @@ const Roadmap = () => {
             </li>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Community Event III
-              </p>
-            </li>
-            <li>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                 - Viral Marketing
               </p>
             </li>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                 - TikTok Takeover
+              </p>
+            </li>
+            <li>
+              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+                - Community Event III
               </p>
             </li>
           </ul>
@@ -159,17 +159,12 @@ const Roadmap = () => {
             Phase Four
           </h3>
           <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            July 2023
+            July 2024
           </time>
           <ul>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - NFT Mint
-              </p>
-            </li>
-            <li>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Community Event IV
+                - Major Influencer Push
               </p>
             </li>
             <li>
@@ -179,7 +174,12 @@ const Roadmap = () => {
             </li>
             <li>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                - Major Influencer Push
+                - Add Locked Tokens To Liquidity
+              </p>
+            </li>
+            <li>
+              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+                - Community Event IV
               </p>
             </li>
           </ul>
