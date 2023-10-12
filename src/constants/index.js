@@ -132,14 +132,6 @@ export const footerLinks = [
         name: "Telegram",
         link: "https://t.me/TOILToken",
       },
-      {
-        name: "Twitter",
-        link: "https://www.twitter.com/XSHIBETH",
-      },
-      {
-        name: "Medium",
-        link: "https://www.medium.com/XSHIBETH",
-      },
     ],
   },
   {
@@ -147,15 +139,11 @@ export const footerLinks = [
     links: [
       {
         name: "CoinMarketCap",
-        link: "https://coinmarketcap.com/",
+        link: "https://coinmarketcap.com/dexscan/bsc/0x10e1d4b84ff84554bd8780db198f4385a3f0e670/",
       },
       {
         name: "CoinGecko",
-        link: "https://www.coingecko.com/",
-      },
-      {
-        name: "Moontok",
-        link: "https://moontok.io/",
+        link: "https://www.geckoterminal.com/bsc/pools/0x10e1d4b84ff84554bd8780db198f4385a3f0e670",
       },
     ],
   },
