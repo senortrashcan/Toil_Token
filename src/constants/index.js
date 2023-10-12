@@ -113,15 +113,15 @@ export const footerLinks = [
     links: [
       {
         name: "Contract",
-        link: "https://etherscan.io/token/0x000000000000000000000000000000000000dead",
+        link: "https://bscscan.com/address/0xE7882b023a4295f63eD5FB06AD410b0E1A1304A8",
       },
       {
         name: "Swap",
-        link: "https://app.uniswap.org/#/swap?outputCurrency=0x000000000000000000000000000000000000dead",
+        link: "https://pancakeswap.finance/swap?outputCurrency=0xE7882b023a4295f63eD5FB06AD410b0E1A1304A8",
       },
       {
         name: "Chart",
-        link: "https://dextools.io/app/uniswap/pair-explorer/0x000000000000000000000000000000000000dead",
+        link: "https://dexscreener.com/bsc/0x10e1d4b84ff84554bd8780db198f4385a3f0e670",
       },
     ],
   },
