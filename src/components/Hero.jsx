@@ -10,7 +10,13 @@ const Hero = () => (
     >
       <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
         <p className={`${styles.paragraph}`}>
-          0xE7882b023a4295f63eD5FB06AD410b0E1A1304A8
+          $TOIL Token : 0xE7882b023a4295f63eD5FB06AD410b0E1A1304A8
+        </p>
+      </div>
+
+      <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
+        <p className={`${styles.paragraph}`}>
+          $TOIL Locker : 0xE7882b023a4295f63eD5FB06AD410b0E1A1304A8
         </p>
       </div>
 
