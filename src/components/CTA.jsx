@@ -7,10 +7,10 @@ const CTA = () => (
   >
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>
-        Join the conquest of the canines and the blockchain!
+        Join Us On Telegram For The Latest News And Announcments!
       </h2>
       <p className={`${styles.paragraph} max-w-[500px] mt-5`}>
-        You will find the mechanical warriors all over the internet. Though our
+        You will find warriors all over the internet. Though our
         headquarter is on Telegram.
       </p>
     </div>
