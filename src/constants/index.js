@@ -165,12 +165,7 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: telegram,
-    link: "https://www.t.me/XSHIBETH",
-  },
-  {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/XSHIBETH",
+    link: "https://t.me/TOILToken",
   },
 ];
 
