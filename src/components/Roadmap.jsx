@@ -56,10 +56,10 @@ const Roadmap = () => {
           </ul>
         </li>
         <li class="mb-6 ml-6">
-          <span class="absolute flex items-center justify-center w-6 h-6 bg-secondary rounded-full -left-3 ring-8 ring-primary ">
+          <span class="absolute flex items-center justify-center w-6 h-6 bg-blue-gradient rounded-full -left-3 ring-8 ring-primary ">
             <svg
               aria-hidden="true"
-              class="w-3 h-3 text-red-400 "
+              class="w-3 h-3 text-gradient "
               fill="currentColor"
               viewBox="0 0 20 20"
               xmlns="http://www.w3.org/2000/svg"
@@ -101,7 +101,7 @@ const Roadmap = () => {
           <span class="absolute flex items-center justify-center w-6 h-6 bg-secondary rounded-full -left-3 ring-8 ring-primary ">
             <svg
               aria-hidden="true"
-              class="w-3 h-3 text-red-400 "
+              class="w-3 h-3 text-gradient "
               fill="currentColor"
               viewBox="0 0 20 20"
               xmlns="http://www.w3.org/2000/svg"
@@ -143,7 +143,7 @@ const Roadmap = () => {
           <span class="absolute flex items-center justify-center w-6 h-6 bg-secondary rounded-full -left-3 ring-8 ring-primary ">
             <svg
               aria-hidden="true"
-              class="w-3 h-3 text-red-400 "
+              class="w-3 h-3 text-gradient "
               fill="currentColor"
               viewBox="0 0 20 20"
               xmlns="http://www.w3.org/2000/svg"
@@ -188,7 +188,7 @@ const Roadmap = () => {
           <span class="absolute flex items-center justify-center w-6 h-6 bg-secondary rounded-full -left-3 ring-8 ring-primary ">
             <svg
               aria-hidden="true"
-              class="w-3 h-3 text-red-400 "
+              class="w-3 h-3 text-gradient "
               fill="currentColor"
               viewBox="0 0 20 20"
               xmlns="http://www.w3.org/2000/svg"
