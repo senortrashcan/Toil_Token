@@ -22,10 +22,10 @@
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
     #e2fef6 0.89%,
-    #6fb8a2 17.23%,
-    #00ffb3 42.04%,
-    #b6eede 55.12%,
-    #38bd95 71.54%,
+    #b6eede 17.23%,
+    #6fb8a2 42.04%,
+    #38bd95 55.12%,
+    #00ffb3 71.54%,
     #81FFD9 100%
   );
   -webkit-background-clip: text;
@@ -37,12 +37,12 @@
 .bg-blue-gradient {
   background: linear-gradient(
     157.81deg,
-    #deb9b9 0.89%,
-    #d79696 17.23%,
-    #d78383 42.04%,
-    #d87070 55.12%,
-    #da5e5e 71.54%,
-    #da4040 100%
+    #e2fef6 0.89%,
+    #b6eede 17.23%,
+    #6fb8a2 42.04%,
+    #38bd95 55.12%,
+    #00ffb3 71.54%,
+    #81FFD9 100%
   );
 }
 
