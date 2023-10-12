@@ -44,21 +44,21 @@ export const features = [
     icon: star,
     title: "Zero Taxes",
     content:
-      "The Next Shib is a zero tax token. This means there are no swap or transfer fees occurring on the blockchain.",
+      "$TOIL is a zero tax token. This means there are no swap or transfer fees occurring on the blockchain.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "Renounced Contract",
     content:
-      "The $XSHIB contract is renounced. There are no methods which can only be called by the developer. Ownership is now in the hands of the dead address.",
+      "The $TOIL contract is renounced. There are no methods which can only be called by the developer. Ownership is now in the hands of the community",
   },
   {
     id: "feature-3",
     icon: fire,
-    title: "Burnt Liquidity",
+    title: "Locked Liquidity",
     content:
-      "The Liquidity Pool has been burnt. This means that the LP tokens have been sent to the dead address, making it impossible to pull the liquidity.",
+      "The Liquidity Pool has been locked. This means that the LP tokens have been sent to our locker address, making it impossible to pull or even access the liquidity.",
   },
 ];
 
@@ -97,7 +97,7 @@ export const stats = [
   },
   {
     id: "stats-2",
-    title: "Burnt",
+    title: "Locked",
     value: "Liquidity",
   },
   {
@@ -130,7 +130,7 @@ export const footerLinks = [
     links: [
       {
         name: "Telegram",
-        link: "https://t.me/XSHIBETH",
+        link: "https://t.me/TOILToken",
       },
       {
         name: "Twitter",
@@ -183,7 +183,7 @@ export const clients = [
   {
     id: "client-2",
     logo: binance,
-    link: "https://t.me/XSHIBETH",
+    link: "https://t.me/TOILToken",
   },
   {
     id: "client-3",
