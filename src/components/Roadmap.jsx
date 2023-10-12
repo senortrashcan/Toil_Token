@@ -98,7 +98,7 @@ const Roadmap = () => {
           </ul>
         </li>
         <li class="mb-6 ml-6">
-          <span class="absolute flex items-center justify-center w-6 h-6 bg-secondary rounded-full -left-3 ring-8 ring-primary ">
+          <span class="absolute flex items-center justify-center w-6 h-6 bg-blue-gradient rounded-full -left-3 ring-8 ring-primary ">
             <svg
               aria-hidden="true"
               class="w-3 h-3 text-gradient "
@@ -140,7 +140,7 @@ const Roadmap = () => {
           </ul>
         </li>
         <li class="mb-6 ml-6">
-          <span class="absolute flex items-center justify-center w-6 h-6 bg-secondary rounded-full -left-3 ring-8 ring-primary ">
+          <span class="absolute flex items-center justify-center w-6 h-6 bg-blue-gradient rounded-full -left-3 ring-8 ring-primary ">
             <svg
               aria-hidden="true"
               class="w-3 h-3 text-gradient "
@@ -185,7 +185,7 @@ const Roadmap = () => {
           </ul>
         </li>
         <li class="mb-6 ml-6">
-          <span class="absolute flex items-center justify-center w-6 h-6 bg-secondary rounded-full -left-3 ring-8 ring-primary ">
+          <span class="absolute flex items-center justify-center w-6 h-6 bbg-blue-gradient rounded-full -left-3 ring-8 ring-primary ">
             <svg
               aria-hidden="true"
               class="w-3 h-3 text-gradient "
