@@ -16,7 +16,7 @@ const Hero = () => (
 
       <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
         <p className={`${styles.paragraph}`}>
-          $TOIL Locker : 0xE7882b023a4295f63eD5FB06AD410b0E1A1304A8
+          $TOIL Locker : 0x8858611fA8C778bbC75D3b51F14635F624546891
         </p>
       </div>
 
@@ -30,8 +30,7 @@ const Hero = () => (
       </div>
 
       <p className={`${styles.paragraph}, max-w-[470px] `}>
-        The year is 2049. Machines have already taken control over humanity.
-        Their next conquest is the canine world.{" "}
+        Simplicity For All, Working Hard For You.{" "}
       </p>
     </div>
 
