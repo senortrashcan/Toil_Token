@@ -31,19 +31,19 @@ const Business = () => {
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          Conquering, <br className="sm:block hidden" />
-          Safely
+          We Toiled Away, <br className="sm:block hidden" />
+          For Your Saftey
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-6`}>
-          The $XSHIB contract is{" "}
+          The $TOIL contract is{" "}
           <span className="text-gradient">100% community-owned</span>, which
           means that it can not be controlled by anyone. <br />
-          The mechanics stand alongside their army,{" "}
-          <span className="text-gradient">on a equal footing.</span>
+          A Leaner, Meaner{" "}
+          <span className="text-gradient">Cryptocurrency.</span>
         </p>
         <p className={`${styles.paragraph} max-w-[470px] mt-6`}>
           Total Supply:{" "}
-          <span className="font-sans text-gradient">10,000,000 $XSHIB</span>
+          <span className="font-sans text-gradient">10,000 $TOIL</span>
         </p>
         <Button styles="mt-10" />
       </div>
