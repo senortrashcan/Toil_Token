@@ -24,13 +24,13 @@ const Roadmap = () => {
               ></path>
             </svg>
           </span>
-          <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+          <h3 class="flex items-center mb-1 text-lg font-semibold text-white dark:text-white">
             Phase One
-            <span class="text-grey-200 text-sm font-medium mr-2 px-2.5 py-0.5 rounded bg-red-400 ml-3">
+            <span class="text-grey-200 text-sm font-medium mr-2 px-2.5 py-0.5 rounded bg-blue-gradient ml-3">
               Current
             </span>
           </h3>
-          <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+          <time class="block mb-2 text-sm font-normal leading-none text-white dark:text-gray-500">
             June 2023
           </time>
           <ul>
@@ -72,7 +72,7 @@ const Roadmap = () => {
               ></path>
             </svg>
           </span>
-          <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+          <h3 class="flex items-center mb-1 text-lg font-semibold text-white dark:text-white">
             Phase Two
           </h3>
           <ul>
@@ -114,7 +114,7 @@ const Roadmap = () => {
               ></path>
             </svg>
           </span>
-          <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+          <h3 class="flex items-center mb-1 text-lg font-semibold text-white dark:text-white">
             Phase Three
           </h3>
           <ul>
@@ -156,7 +156,7 @@ const Roadmap = () => {
               ></path>
             </svg>
           </span>
-          <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+          <h3 class="flex items-center mb-1 text-lg font-semibold text-white dark:text-white">
             Phase Four
           </h3>
           <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
@@ -201,7 +201,7 @@ const Roadmap = () => {
               ></path>
             </svg>
           </span>
-          <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+          <h3 class="flex items-center mb-1 text-lg font-semibold text-white dark:text-white">
             Phase Five
           </h3>
           <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
