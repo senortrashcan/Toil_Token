@@ -22,7 +22,7 @@ const Hero = () => (
 
       <div className="flex flex-row justify-between items-center w-full">
         <h1 className="flex-1 font-poppins font-semibold ss:text-[62px] text-[52px] text-white ss:leading-[100px] leading-[75px]">
-          THE <span className="text-gradient">NEXT </span>SHIB
+          HARD WORK <span className="text-gradient">PAYS </span>OFF
         </h1>
         <div className="ss:flex hidden md:mr-4 mr-0">
           <GetStarted />
