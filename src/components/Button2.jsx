@@ -7,7 +7,7 @@ const Button2 = ({ styles }) => {
       className={`py-4 px-6 bg-blue-gradient font-poppins font-medium text-[18px] text-primary rounded-lg outline-none ${styles} cursor-pointer`}
       onClick={(e) => {
         e.preventDefault();
-        window.location.href = "http://t.me/XSHIBETH";
+        window.location.href = "http://t.me/TOILToken";
       }}
     >
       Join now
