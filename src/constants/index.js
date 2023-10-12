@@ -112,8 +112,12 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Contract",
+        name: "TOIL Contract",
         link: "https://bscscan.com/address/0xE7882b023a4295f63eD5FB06AD410b0E1A1304A8",
+      },
+      {
+        name: "TOIL Locker Contract",
+        link: "https://bscscan.com/address/0x8858611fA8C778bbC75D3b51F14635F624546891",
       },
       {
         name: "Swap",
