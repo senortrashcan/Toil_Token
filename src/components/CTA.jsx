@@ -11,7 +11,7 @@ const CTA = () => (
       </h2>
       <p className={`${styles.paragraph} max-w-[500px] mt-5`}>
         Explore the community and feel free to share any ideas, 
-        they may be implemented further down the line
+        they may be implemented further down the line.
       </p>
     </div>
     <div className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-0 mt-10`}>

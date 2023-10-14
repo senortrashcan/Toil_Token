@@ -58,7 +58,7 @@ export const features = [
     icon: fire,
     title: "Locked Liquidity",
     content:
-      "The Liquidity Pool has been locked. This means that the LP tokens have been sent to our locker address, making it impossible to pull or even access the liquidity.",
+      "The Liquidity Pool has been locked. This means that the LP tokens have been sent to our locker address, making it impossible to remove or even access the liquidity.",
   },
 ];
 
